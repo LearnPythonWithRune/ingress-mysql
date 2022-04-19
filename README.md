@@ -2,9 +2,9 @@
 Ingress MySQL is a MySQL server for demonstration purposes.
 
 ## Description
-This is a repository containing a Dockerfile, which builds a MySQL server with inserting the schema.sql.
+This is a repository containing a Dockerfile, which builds a MySQL server with inserted schema.sql.
 
-The file `schema.sql` has the query to create an empty table.
+The file `schema.sql` contains the queries to create a database with an empty table.
 
 ## How to
 To build the image have Docker Desktop (or Docker engine) running.
